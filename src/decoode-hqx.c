@@ -5,7 +5,8 @@
  *  @brief  ~ UNFINISHED (/ abandoned?)
  * 
  *  @details
- *    https://en.wikipedia.org/wiki/BinHex#BinHex_4_(.hqx)
+ *    - Data: https://www.mso.anu.edu.au/~ralph/OPTED/v003/wb1913_a.html
+ *    - BinHex 4.0: https://en.wikipedia.org/wiki/BinHex#BinHex_4_(.hqx)
 **/
  
 #include <stdlib.h>
